@@ -6,7 +6,7 @@ class TransactionList extends StatefulWidget {
   final List<Transaction> _usertransaction;
   final Function deleteTx;
 
-  const TransactionList(this._usertransaction, this.deleteTx);
+  TransactionList(this._usertransaction, this.deleteTx);
 
   @override
   _TransactionListState createState() => _TransactionListState();
