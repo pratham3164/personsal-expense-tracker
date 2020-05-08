@@ -1,6 +1,6 @@
 # personalexpense_app
 
-<img src="assets/s1png" width="170" height="320"> <img src="assets/s2.png" width="170" height="320"> <img src="assets/s3.png" width="170" height="320">  
+<img src="assets/s1.png" width="170" height="320"> <img src="assets/s2.png" width="170" height="320"> <img src="assets/s3.png" width="170" height="320">  
 <img src="assets/s4.png" width="320" height="170"> 
 <img src="assets/s5.png" width="320" height="170"> 
 
